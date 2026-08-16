@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 143,
+    "left": 0,
+    "width": 674,
+    "height": 898,
+    "isRotated": true,
+    "originalWidth": 674,
+    "originalHeight": 1185
+  },
+  "imagePath": "image-targets/Tarjetacanvajuanes_luminance.png",
+  "metadata": null,
+  "name": "Tarjetacanvajuanes",
+  "resources": {
+    "originalImage": "Tarjetacanvajuanes_original.png",
+    "croppedImage": "Tarjetacanvajuanes_cropped.png",
+    "thumbnailImage": "Tarjetacanvajuanes_thumbnail.png",
+    "luminanceImage": "Tarjetacanvajuanes_luminance.png"
+  },
+  "created": 1786824527247,
+  "updated": 1786824527247
+}
