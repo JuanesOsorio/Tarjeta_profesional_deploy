@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 142,
+    "left": 0,
+    "width": 676,
+    "height": 901,
+    "isRotated": true,
+    "originalWidth": 676,
+    "originalHeight": 1186
+  },
+  "imagePath": "image-targets/Tarjeta_canva_entrega_luminance.png",
+  "metadata": null,
+  "name": "Tarjeta_canva_entrega",
+  "resources": {
+    "originalImage": "Tarjeta_canva_entrega_original.png",
+    "croppedImage": "Tarjeta_canva_entrega_cropped.png",
+    "thumbnailImage": "Tarjeta_canva_entrega_thumbnail.png",
+    "luminanceImage": "Tarjeta_canva_entrega_luminance.png"
+  },
+  "created": 1787104292840,
+  "updated": 1787104292840
+}
